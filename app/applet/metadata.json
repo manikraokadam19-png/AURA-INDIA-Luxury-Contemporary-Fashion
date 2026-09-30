@@ -1,0 +1,8 @@
+{
+  "name": "RANGREZA INDIA | Luxury & Contemporary Fashion",
+  "description": "Premium Indian fashion e-commerce platform for Women, Men, Teens, Kids, and Babies featuring designer edits, modern streetwear, and ethnic couture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
